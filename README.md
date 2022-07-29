@@ -10,6 +10,9 @@ All images and text can be easily edited, full instructions provided below.<br>
 - Audio controller for background music
 - Video controller for displaying a server trailer
 
+## PREVIEW ##
+[YouTube](https://www.youtube.com/watch?v=Dj9b2pVZvxE)
+
 ## Install ##
 
 1) Customise HTML and CSS accordingly to fit your server, refer to instructions below if unsure
@@ -208,9 +211,5 @@ audio::-webkit-media-controls-current-time-display {
     color: #4dcbc2; /* Edit colour here */
 }
 ```
-
-## PREVIEW ##
-[YouTube](https://www.youtube.com/watch?v=Dj9b2pVZvxE)
-
 ## SUPPORT ##
-[Discord](https://discord.gg/MUckUyS5Kq)  
+[Discord](https://discord.gg/MUckUyS5Kq)
